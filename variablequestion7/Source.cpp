@@ -12,6 +12,7 @@ int main()
 	char letterMid;
 	char tmp;
 	char preAns;
+	printf("input 2 letters to find the middle letter \n");
 
 	cin >> letterLarger >> letterSmaller;
 
